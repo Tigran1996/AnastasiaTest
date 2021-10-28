@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('../fonts/Montserrat-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Monsterrat';
+  src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
+}
+
+$bold:'Montserrat-Bold';
+//Language font styles
+body{
+  font-family: 'Monsterrat';
+}
+.en{
+
+}
+.ru{
+
+}
+
+h1,h2,h3{
+  font-family: $bold;
+}
+
+b,strong{
+  font-family: $bold;
+}
+ul{
+  list-style: none;
+  margin-bottom: 0;
+}
+.extr-bold{
+  font-family: $bold;
+}
+
+.btn{
+  font-family: $bold;
+}
+a,a:hover{
+  text-decoration: none;
+}
+
+@include adaptiv-to(comp-screens ) {
+  @include font-comp;
+}
+@include adaptiv-to(tablet-screens) {
+  @include font-tablet;
+}
+@include adaptiv-to(phone-screens) {
+  @include font-phone;
+}

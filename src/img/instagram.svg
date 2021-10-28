@@ -1,0 +1,22 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" width="35" height="35">
+	<title>design</title>
+	<defs>
+		<image width="35" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAAXNSR0IArs4c6QAABRJJREFUWEe9mFesVVUQhr/frqCCEfQBKy90G1hQsEZFsUSjj7wYbGhssWAh2MuDwI1ijMQHffDFRtSA5QKWBAIajCKWGBUixEa3K4z5T9Yi6+67zz1XvNdJdk7O7Fmz/jWz1j+ztmgiEXE0MAEYBQwC+gF9gF3TszPgR+kJwM82YCvwF/An8CuwEfgW+BiYL2lZ3bR21EEi4lRgOjC+GdAe0C8F7pP0SumrA5iIuB24vwcm666LNknXZePtYCJiKvBAxcs8oB34KoX6N+DvlIacFv86dU5ZTpPd7ATsBuwDHAAMA04HnP5SHpd0jRUNMBFxDPB+YfE2cLWkld1dYnftIuIUoA0YWYyZIGl+BrMcODK9XCbp2O463xG7iPC8HwEj0vjVkg5RRAwBPi2cHiTJO7/HJCImAbcCvwBXSFoeEYcCXxeTjDWYO4F7k3KRJJ+mHpOIGAqU6V4LeMHbIuJN4Iw02UyDeR64OClukDSzu0gSDTiyeyc++QJYKMkc05Bks6DicxdJWyNiCvBYetduMEuA45LiPEmvtgITEbc53IBDXRWv/GmfTEk+fQY0Fzg/GU6V9FDSnwvk+VYYjI/tYclwrKTFzcCkkL8AOPStZDVwiSQTnAF54i2S3imidhLwbvr/jcH8COyfFEdI8i7vJBExGFgB7FG8NPV/AKxL5eIoYPfK4NGSbFPncwzQAAusMRjXjX2TYngzbomIVcDBhcdZwKOSHIGGRMSBwLWAmTzLZmCgpD+qaCLCdGJasfxgMFuAvkkxVNJnNYNuBh4p9JMkPVu32gRqIlDWHYO+qcaviS9nYp3BGLlPg2WYpJJzvFoTlNPQP9k8KenKZkCKKN0NTEv/XcX7Svq9HBcRw1Pqrd5QTdMISZ9UBpwMLEo616X+kn5uBSZFqIz62ZJe7wLMJoNZX6x6lCT3HNslIlxVM/cslZRpoCWeiHgNOCcZTpOUybWhqkRms8E4BfulAXVg7nDvkd7PlXRhSxTJICKeAHJKZ0i6sbJQV/KciS3VyIyU5ONbRuZ6YEZSLJF0wr8AU5LddEneR6XvEkwjMhsSR9iobs+4B3krefDx7FfdiM3AVWhjoiSnrUswm1IDZKO60+SmyYDziesU7jowEXEL8HDxro8k98PNwGx0ZEowQyR9XnUeEXcB9xT6iyS91EVE3EAtLN7PluSi2EEiwv1MPjDrq2lqBsbRcQEcWHjzpp4l6aesiwi3mFcBjUKYxNwyoI4OIqIkvQYDf19M0mnPFBN5FWbLsol3s+Ta8l2qb6MLmshDx0vKxbAambLdXWswXwIugpYxkspeuG7wi5Ua1SxbpoxLJVV7mXLPjANyFV9lMG4Zjk8WZ0l6o5l36yNiL8Dd4WWVtOVh3uzPuHuUZEBNJSIuAF5OBiurnd4USbO7clCkbU/AnOPK69umqd9pXCzJ9a6lRETJYQsMxsUsk1G7pNyTtnT2Xw0iwney05KfNoMpj5f1gyW5++tVqbkdjMv3JtcHU7NlpSSX9l6ViDC/5HvTGkmDMpgTgfeK2T8EJnd1snYUaeru5gA+1lkaF4Hyrm0Sc4UuxSya79ruld3H+BrivibftbMP/y8l37V9+gYAh6e79pkVu6ckXW5d9SvEg4CvIf+XzJE0OU9W933G/avrkDv93hK3tuah58oJOoHJLyPC7OguzfWj/HLlzxx5nK8qOV2l3/z1yun0Rc6845JhEPMk5Zakw2L/AYzpJ3gvHuv4AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="design">
+		<g id="menu">
+			<g id="menu (open)">
+				<g id="right">
+					<g id="social копия">
+						<g id="Группа 1">
+							<use id="instagram" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

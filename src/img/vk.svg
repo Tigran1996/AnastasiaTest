@@ -1,0 +1,22 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 24" width="40" height="24">
+	<title>design</title>
+	<defs>
+		<image width="40" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAYCAYAAACIhL/AAAAAAXNSR0IArs4c6QAAAyNJREFUWEetl0uolVUUx3//tBwI4SMVBSGbqKShiA90oBRBUoOCahBiCKJBiTpKvaIDX+CgtAQlESxwkiMpGkQFYeFEiLgOVIzENDDwSTZK/rEu+xy/e/z2/r5zb2t0OOv1O2utvfY+sr0WeAUYA5hHchPYIelB5bvuR9tvA28AT/T4hY2AO8CApFt1/p3vbG8FllTihG9w/A7sl+0qVG+sLyS9mwH8E5heSg5slvRJzsb2euB4IcaKAAzSZwtGkyRFNYaJ7eXAzw2AH0o6WAD8C5iS0d8GZgbgMWBjIVG2CraPAO8XfLdKOpTpwFvAlwXf/ZIGAnAZcK5geFHS3EyS54ELIwQsVe9vYJqkf2Igsd00T6sk/VjT5slAHKY4YHVSW0Hb7wFHCz9so6TPOqctAAeAvQWH85IW1wDG/FwHnmoLaPtpIOYr96MGJb3Qidep4PjklEsU9oslna+C2J4G/AE82QdgzF3MX07mSro4DDC1+SMgdlJOLkmaMxpA2+8Apwo59knaWdUPVTABTgRicMcWAqyR1E3QooLdDWD7OeBKWuJ1Ka5KmtWr6AImyO2xvQuA/wKTJd1P9k0tXifppO0ZwCAwqRB7tqTLTYBxbcWpfKYQ6AdJL1UArxUOyRngNBD7ckIhZlypB+r0wyqYkr4IfF8IFqrjkjYk+4fpHm1wyaovSJqf0z4GmJJ+BbzWkPFzIFq9aaRkye8GML/uOg19DjAOSmzzcaNM3tY9dmlA3i3OYFVp+1Xg67YZ/ge734AFkqIwXamtYEdr+2NgyyiS30svnpixmS3ixBqaIynmekiKgGkevwOGTu0IZJekPbZjO+wGdrWIcU5SPOXaASbIeO3Eq6df6V76Kc5K4NvCWurEPyPp9VYVrLT7G2B1n4SbJMUO7IrtecDZhr0Y9kPVb2xxT/BYptv6gNwi6XCvve14wcetkXtkdFwW9QWY2vQysAdY2gI0/jTVXp22FwC/NMQY7Buw0vI3gQ+AmKucrJd0Iqe0vQL4qQQ5YsAKaDzBVsV6AKamtsVf1V+BTyXFAyMrthem/zW9d3WsmrP/Ab8HJNP64dvcAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="design">
+		<g id="menu">
+			<g id="menu (open)">
+				<g id="right">
+					<g id="social копия">
+						<g id="Группа 4">
+							<use id="vk" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<title>design</title>
+	<defs>
+		<image width="44" height="44" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="design">
+		<g id="menu">
+			<g id="menu (open)">
+				<g id="right">
+					<g id="social копия">
+						<g id="Группа 4 копия">
+							<use id="whatsapp" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

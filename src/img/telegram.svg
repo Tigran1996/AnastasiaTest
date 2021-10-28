@@ -1,0 +1,22 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 35" width="41" height="35">
+	<title>design</title>
+	<defs>
+		<image width="41" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAjCAYAAAAJ+yOQAAAAAXNSR0IArs4c6QAAA39JREFUWEfNmFvIVVUQx3//IqOXAkP7ICsMNYMKIxN8kkpLUzEzorSLWkhi5CWIIokEL+mLJeSLd+ih8knUoiiRiAxUoocewu8tRCULJERE6B9zWEf2d9rn7L3P3l4GDudhzZr927NmZs1scR2K7XuAF4ARwKe6nhhtPwO8BMzLcA1ec0jb9wGvJM/dm+e0awJpexjwHLAQmFZwmqevKqTtx4E5yWsjS4baoSsOmZJgQYq1+0uCZdU2XDFI23OBV5PnerH9AHwPrOmiNLdRSNvhqZeB+UCUkSJZLmmL7beAT7oo31kb0nbUshkJbmoRVVr/Flgs6aTtncCiLvtOSBrXN6Tt6QksatrNJeHOACskfR76tn8BJvTYu0fSwkqQtkcDkQTxG18SrK22DVgp6bztO4AjQNjrJW9KKr5xbN8ARBJETZtVESzUfweWSYrkCO89APwI3FbC1iRJR7t60vZDwIupdIwqYTBPZZ2k1e0F21OAiMco5kVyHrhd0sUhkLYHEtSzwOQiKz3W9wPvSfotAxgnsauCzeOSJoZ+C9L2Y8Ab6VhvqmCoU/VvIMrKZ9kF2+8AGyva3SHp9Rak7Xi7eMu6sgN4W9K5DsANwLt9GF8iKZKtBek+DGS3nEje+7rTju0AX9yn/QmSfm1D3p1apdnApAoG4+U+kLQ2By7C6ADwdAV7WdW/gJGS/r0ck5ngHpvKzEzgiR4P+AaIGjaYAzgcOAw82CdgbPtKUjC0pFcJirLzFBDdcgDfAlxINS83S23fBfwE9Fuy2lxrJH1YCNkR/OGdAP1Z0h95HrL9cPLgrTU82N46S9LBSpBFD7X9JBCJE7dTXYk4HJD0Z2OQtqOWtUpFQzIoKXLjslRqMLocc9TFJo64bX6fpMiDZiBt3wicSvNxQ45ktaR1TUJGQgVkmYah7EtMk/Rdk5BjgLhxmpJLqfP5p0nIR4BjOYQfpW59ZUX6Y5Ie7dxTK3FsR+0ccjTAFknL40G24//jCqBbJS1rGjK+QuzNGN0saVX2IbajJ/yyxKgQ2xZJ2t005GvA9mT0fUnru5Sp6FFjZF1a4NXxkmLcGCJ1j3tP6qBiwCo8VtsxjsS9nzddnpUU4/H/pC7k89GkSPqibNzZji9nod8aDTJyVFJuq1gLsixYlxDYHDN4Zi0myq2Ne7IOZMr+aEzi68cpSZu62fsPkgcaqmuoozAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="design">
+		<g id="menu">
+			<g id="menu (open)">
+				<g id="right">
+					<g id="social копия">
+						<g id="Группа 3">
+							<use id="telegram" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
